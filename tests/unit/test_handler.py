@@ -2,7 +2,7 @@ import json
 
 import pytest
 
-from hello_world import app
+from panic_jobs_monitor import app
 
 
 @pytest.fixture()
